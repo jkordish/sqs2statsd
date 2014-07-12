@@ -1,0 +1,6 @@
+{
+    "id": "ID",
+    "key": "KEY",
+    "secret": "SECRET",
+    "sqs": "QUEUE"
+}
